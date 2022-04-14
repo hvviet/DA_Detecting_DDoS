@@ -1,2 +1,2 @@
 #Download datasets in this link, extract and move "datasets" folder to project DA_Detecting_DDoS/...
-https://cmcglobalcompany-my.sharepoint.com/:f:/g/personal/hvviet_cmcglobal_vn/En4aiS4rc9ZMvuy0qvTrlJABFH-V-6ewbM_572TsM3ctyA?e=KPht4O
+https://shorturl.at/noxPY
